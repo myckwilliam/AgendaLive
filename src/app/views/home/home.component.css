@@ -1,0 +1,23 @@
+html {
+    background-color: #302E37;
+}
+
+.example-icon {
+    padding: 0 14px;
+  }
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+
+  .live {
+      background-color: #04D361;
+      color: #FFFFFF;
+      font-weight: bold;
+  }
+
+  mat-toolbar-row {
+      background-color: #0B0A0D;
+      color: #fff;
+      font-size: 1.5rem;
+      height: 80px;
+  }

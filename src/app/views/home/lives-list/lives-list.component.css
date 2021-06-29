@@ -1,0 +1,29 @@
+.mat-tab-group {
+    margin-bottom: 48px;
+}
+
+mat-tab-group {
+    padding: 40px 2% 0 2%;
+}
+
+::ng-deep .mat-tab-label {
+    color: white;
+}
+
+::ng-deep .mat-ink-bar {
+    background-color: #04D361;;
+}
+
+.align {
+    padding: 2%;
+}
+
+.responsive {
+    margin: 0.5%;
+}
+
+.example-card {
+    max-width: 400px;
+    color: white;
+    background-color: #0B0A0D;
+  }
