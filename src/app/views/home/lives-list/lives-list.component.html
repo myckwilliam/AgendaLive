@@ -2,7 +2,11 @@
     <mat-tab label="First">
         <div fxLayout="row" fxLayoutAlign="center center" class="align" >
             <div class="responsive">
-                <mat-card class="example-card">
+
+                <mat-card class="example-card"
+                fxFlex="0 1 calc(33.3% - 11px)"
+                fxFlex.lt-md="0 1 calc(50% - 11px)"
+                fxFlex.lt-sm="100%">
                     <mat-card-header>
                       
                     </mat-card-header>
